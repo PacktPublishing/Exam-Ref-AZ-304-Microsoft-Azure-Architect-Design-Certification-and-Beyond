@@ -1,0 +1,1 @@
+New-AzStorageAccount -ResourceGroupName 'packtstorageresourcegroup' -Name 'packtstoragewithtags' -Location 'eastus' -SkuName 'Standard_LRS' -Kind 'StorageV2' -Tags @{"Dept"="Finance"; "CostCenter"="001"}

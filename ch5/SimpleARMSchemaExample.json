@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "resources": [
+      {
+        "type": "Microsoft.Storage/storageAccounts",
+        "apiVersion": "2019-04-01",
+        "name": "packstoragewithtags",
+        "location": "eastus",
+        "tags": {
+                  "Dept": "Finance",
+                  "CostCenter": "001"
+              },
+        "sku": {
+          "name": "Standard_LRS"
+        },
+        "kind": "StorageV2"
+      }
+    ]
+  }
+  
