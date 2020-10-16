@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bretthargreaves/OneDrive/Authoring/PactPub/AZ304Book/GitHub/Microsoft-Azure-Architect-Design---AZ-304-Certification-Beyond/ch6/ManagedIdentityApp/ManagedIdentityApp.csproj": {}
+  },
+  "projects": {
+    "/Users/bretthargreaves/OneDrive/Authoring/PactPub/AZ304Book/GitHub/Microsoft-Azure-Architect-Design---AZ-304-Certification-Beyond/ch6/ManagedIdentityApp/ManagedIdentityApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bretthargreaves/OneDrive/Authoring/PactPub/AZ304Book/GitHub/Microsoft-Azure-Architect-Design---AZ-304-Certification-Beyond/ch6/ManagedIdentityApp/ManagedIdentityApp.csproj",
+        "projectName": "ManagedIdentityApp",
+        "projectPath": "/Users/bretthargreaves/OneDrive/Authoring/PactPub/AZ304Book/GitHub/Microsoft-Azure-Architect-Design---AZ-304-Certification-Beyond/ch6/ManagedIdentityApp/ManagedIdentityApp.csproj",
+        "packagesPath": "/Users/bretthargreaves/.nuget/packages/",
+        "outputPath": "/Users/bretthargreaves/OneDrive/Authoring/PactPub/AZ304Book/GitHub/Microsoft-Azure-Architect-Design---AZ-304-Certification-Beyond/ch6/ManagedIdentityApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bretthargreaves/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Azure.KeyVault": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            },
+            "Microsoft.Azure.Services.AppAuthentication": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.Extensions.Configuration.AzureKeyVault": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
