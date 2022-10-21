@@ -61,3 +61,7 @@ is a lead Azure consultant who has worked for some of the world's biggest compan
 
 ## Other books by the author
 * [Implementing Microsoft Azure Architect Technologies: AZ-303 Exam Prep and Beyond - Second Edition](https://www.packtpub.com/in/cloud-networking/implementing-microsoft-azure-architect-technologies-az-303-exam-prep-and-beyond?utm_source=github&utm_medium=repository&utm_campaign=9781800568570)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800566934">https://packt.link/free-ebook/9781800566934 </a> </p>
