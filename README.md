@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800566934)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Exam Ref AZ-304 Microsoft Azure Architect Design Certification and Beyond
 
 <a href="https://www.packtpub.com/product/microsoft-azure-architect-design-az-304-certification-and-beyond/9781800566934?utm_source=github&utm_medium=repository&utm_campaign=9781800566934"><img src="https://static.packt-cdn.com/products/9781800566934/cover/smaller" alt="Exam Ref AZ-304 Microsoft Azure Architect Design Certification and Beyond" height="256px" align="right"></a>
